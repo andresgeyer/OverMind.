@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OverMind</string>
+    <string name="action_nuevo">Nuevo</string>
+    <string name="action_todos">Ver todos</string>
+    <string name="action_por_hacer">Ver por hacer</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="mensaje_tarea_creada">Nueva tarea creada</string>
+    <string name="mensaje_todas_tareas">Mostrando todas las tareas</string>
+    <string name="crear_evento">Crear evento</string>
+</resources>
